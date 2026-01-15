@@ -21,45 +21,6 @@ Main research topics include:
 - **LLMs for data analysis and modeling**
 - Neuromorphic hardware (e.g., **Xylo Audio 3**)
 
-
-## 🛠️ Tools & Prototypes
-
-### PowerPulse — Mobile Data Analysis
-- [Web (Stats)](https://github.com/MOB4AI/PowerPulseStats)
-- [Desktop (BTD)](https://github.com/MOB4AI/PowerPulseBTD)
-- [Aurora](https://github.com/MOB4AI/Aurora)
-
-### LogScope — Mobile Network Log Analysis
-- [Web](https://github.com/MOB4AI/LogScope)
-- [Desktop](https://github.com/MOB4AI/LogScope-old)
-
-### SignalMap — Mobile Network Quality Heatmap Analysis
-- [Web](https://github.com/MOB4AI/SignalMap-old)
-
-
-## 🧠 Neuromorphic Computing Experiments
-
-### Audio
-- [AudioSpike](https://github.com/MOB4AI/AudioSpike)
-- [Bipolar LIF Audio Codec](https://github.com/MOB4AI/spikes-to-audio)
-- [BatteryBeats — Power Efficiency of SNNs on Android](https://github.com/MOB4AI/AudioSpike-Measuring-Power-Efficiency-in-SNNs-on-Android)
-
-### Neuromorphic Hardware (Xylo)
-- [Xylo Audio 3 — Neuromorphic Audio Processing](https://github.com/MOB4AI/Xilo-Experiments-Mp3-to-WAV)
-- [Speech Recognition on GPU vs Xylo Board](https://github.com/MOB4AI/Speech-Recognition-Comparison-on-GPU-and-Xylo-Neuromorphic-Board)
-
-### Battery State of Health (SoH)
-- [BI-LSTM-SNN for Battery SoH Prediction](https://github.com/MOB4AI/BI-LSTM-SNN-for-Battery-SoH-Prediction)
-- [SNN Multitask SoH Regressor](https://github.com/MOB4AI/SNN-Battery-Prediction)
-
-### Spiking Neural Networks (SNN)
-- [Gesture Recognition with Neuromorphic Computing](https://github.com/MOB4AI/Gesture-recognition-with-neuromorphic-computing)
-- [VoiceDetect](https://github.com/MOB4AI/Voice-Detect-SSN)
-- [SNN RX Prediction](https://github.com/MOB4AI/Rx-Prediction)
-- [TropiChryso — SNN + LLM for Plant Identification](https://github.com/MOB4AI/Plant-species-identification-snn-llm)
-- [ServArm — SNN-Based Control](https://github.com/MOB4AI/Servarm-snn-control)
-
-
 ## 🤝 Funding & Partnerships
 
 This project is funded by:
